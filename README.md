@@ -1,6 +1,7 @@
 ## Final Project for CMPINF0010.
 
-### Team: Group 12
+### Team: AK (the best drawing hand)
+Canvas Group Number: Group 12
 Alan Ye <ALY107@pitt.edu>
 Kevin Liu <KEL299@pitt.edu>
 
@@ -14,7 +15,14 @@ Kevin Liu <KEL299@pitt.edu>
 3. [Median 1-2 Unit Homes Median Price in 2021 $ by Tract](https://data.wprdc.org/dataset/housing-indicators/resource/48a84ba8-194c-47f9-a5c0-d4098a43151d)
     This dataset provides the median sale prices of 1-2 unit homes in 2021, broken down by census tract. It offers insights into housing affordability and market trends at a localized level, helping to identify variations in home values across different neighborhoods or regions. This information is useful for urban planning, real estate analysis, and economic studies related to housing markets.
 
+4. [Pittsburgh neighborhood cencus block](https://www.census.gov/cgi-bin/geo/shapefiles/index.php)
+    This dataset provides the cencus block and tract information of each neighborhood in Pittsburgh. It will provide the corresponding neighborhood by traversing through the cencus block. This information is needed to convert the Geographic ids to the corresponding neighborhood.
 
+
+### Overview
+This repository is designed to be used in collecting information of sidewalk walkability, arrest rates, and home value increases as an analysis progresses to the best neighborhood in Pittsburgh. 
+    [CMPINF0100_Alan]: This notebook from Alan provides the analysis of the arrest rates among each neighborhood in Pittsburgh.
+    [CMPINF0100_Kevin]: This notebook from Kevin provides the analysis of the sidewalk walkability and home values for each neighborhood in Pittsburgh.
 
 
 
